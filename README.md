@@ -1,4 +1,5 @@
 - <h1>👋 Hi, I’m @rupomrubaiyat</h1> 
+  <h3>currently studting at Notre Dame college, Dhaka </h3>
 - 👀 I’m interested in CSS and Javascript
 - 🌱 I’m currently learning html and C programming
 - 💞️ I’m looking to collaborate on ...
