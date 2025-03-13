@@ -4,11 +4,11 @@
 <p>- 👀 I’m interested in CSS and Javascript</p> <br>
 <p>- 🌱 I’m currently learning html and C programming</p> <br>
 <!-- <p>- 💞️ I’m looking to collaborate on ...</p> -->
-- 📫 How to reach me : gmail:rupomrubaiyat@gmail.com
+<p> 📫 How to reach me : gmail:rupomrubaiyat@gmail.com
 -                      instagram : https://www.instagram.com/rupom.rubaiyat/
--                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ 
-- 😄 Pronouns: He
-- ⚡ Fun fact: ...
+-                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p>-
+<p>- 😄 Pronouns: He</p>
+<--- ⚡ Fun fact: ...-->
 
 <!---
 rupomrubaiyat/rupomrubaiyat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
