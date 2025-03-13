@@ -4,9 +4,9 @@
 <p>- 👀 I’m interested in CSS and Javascript</p> <br>
 <p>- 🌱 I’m currently learning html and C programming</p> <br>
 <!-- <p>- 💞️ I’m looking to collaborate on ...</p> -->
-<p> 📫 How to reach me : gmail:rupomrubaiyat@gmail.com
--                      instagram : https://www.instagram.com/rupom.rubaiyat/
--                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p>-
+<p> 📫 How to reach me : gmail: rupomrubaiyat@gmail.com<br>
+-                      instagram : https://www.instagram.com/rupom.rubaiyat/<br>
+-                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p>-<br>
 <p>- 😄 Pronouns: He</p>
 <--- ⚡ Fun fact: ...-->
 
