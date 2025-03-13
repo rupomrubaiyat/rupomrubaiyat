@@ -1,10 +1,10 @@
  <body style="background:rgb(240, 185, 240);">
  <h1>👋 Hi, I’m @rupomrubaiyat</h1> <br>
   <h3>currently studying at Notre Dame college, Dhaka </h3> <br>
-<p>- 👀 I’m interested in CSS and Javascript</p> <br>
-<p>- 🌱 I’m currently learning html and C programming</p> <br>
+<p>- 👀 interested in CSS and Javascript</p> <br>
+<p>- 🌱 currently learning html and C programming</p> <br>
 <!-- <p>- 💞️ I’m looking to collaborate on ...</p> -->
-<p> 📫 How to reach me : gmail: rupomrubaiyat@gmail.com<br>
+<p> 📫 How to reach me : email: rupomrubaiyat@gmail.com<br>
 -                      instagram : https://www.instagram.com/rupom.rubaiyat/<br>
 -                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p><br>
 <p>- 😄 Pronouns: He/Him</p>
