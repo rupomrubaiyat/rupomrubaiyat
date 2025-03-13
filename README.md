@@ -8,7 +8,7 @@
 -                      instagram : https://www.instagram.com/rupom.rubaiyat/<br>
 -                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p>-<br>
 <p>- 😄 Pronouns: He</p>
-<--- ⚡ Fun fact: ...-->
+<!--- ⚡ Fun fact: ...-->
 
 <!---
 rupomrubaiyat/rupomrubaiyat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
