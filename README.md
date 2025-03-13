@@ -1,4 +1,4 @@
-<body style="background:blue;">
+ <body style="background:rgb(240, 185, 240);">
 - <h1>👋 Hi, I’m @rupomrubaiyat</h1> <br>
   <h3>currently studying at Notre Dame college, Dhaka </h3> <br>
 <p>- 👀 I’m interested in CSS and Javascript</p> <br>
