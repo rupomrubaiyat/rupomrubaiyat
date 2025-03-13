@@ -7,7 +7,7 @@
 <p> 📫 How to reach me : gmail: rupomrubaiyat@gmail.com<br>
 -                      instagram : https://www.instagram.com/rupom.rubaiyat/<br>
 -                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p><br>
-<p>- 😄 Pronouns: He</p>
+<p>- 😄 Pronouns: He/Him</p>
 <!--- ⚡ Fun fact: ...-->
 
 <!---
