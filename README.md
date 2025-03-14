@@ -4,13 +4,14 @@
   <h3>**currently studying at Notre Dame college, Dhaka </h3> <br>
 <p>- 👀 interested in CSS and Javascript</p> <br>
 <p>- 🌱 currently learning html and C programming</p> <br>
+  <h3>Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!</h3>
 <!-- <p>- 💞️ I’m looking to collaborate on ...</p> -->
 <p> 📫 feel free to drop a message:
 -                      instagram : https://www.instagram.com/rupom.rubaiyat/<br>
 -                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p><br>
                       <p>email: rupomrubaiyat@gmail.com<br></p> 
 <p>- 😄 Pronouns: He/Him</p>
-  <h2>Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!</h2>
+  
 <!--- ⚡ Fun fact: ...-->
 
 <!---
