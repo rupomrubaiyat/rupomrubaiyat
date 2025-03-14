@@ -10,6 +10,7 @@
 -                      linked in : https://www.linkedin.com/in/rupomrubaiyat/ </p><br>
                       <p>email: rupomrubaiyat@gmail.com<br></p> 
 <p>- 😄 Pronouns: He/Him</p>
+  <h2>Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!</h2>
 <!--- ⚡ Fun fact: ...-->
 
 <!---
