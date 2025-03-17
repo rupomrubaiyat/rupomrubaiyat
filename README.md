@@ -10,9 +10,9 @@
 ### Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!</h3>
 <!-- <p>- 💞️ I’m looking to collaborate on ...</p> -->
 ### 📫 feel free to drop a message:
-  -instagram : https://www.instagram.com/rupom.rubaiyat/
-  -linked in : https://www.linkedin.com/in/rupomrubaiyat/ 
-  -Email: rupomrubaiyat@gmail.com
+- instagram : https://www.instagram.com/rupom.rubaiyat/
+- linked in : https://www.linkedin.com/in/rupomrubaiyat/ 
+- Email: rupomrubaiyat@gmail.com
 <!-- > [!TIP]
 > Helpful advice for doing things better or more easily.-->
 <p>- 😄 Pronouns: He/Him</p>
