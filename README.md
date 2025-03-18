@@ -13,7 +13,7 @@
 - instagram : [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rupom.rubaiyat/)
 
 - linked in : [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupomrubaiyat/)
-- Email: rupomrubaiyat@gmail.com
+- Email:[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rupomrubaiyat@gmail.com)
 - Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-0078D6?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/rupom.rubaiyat)
 <!-- > [!TIP]
 > Helpful advice for doing things better or more easily.-->
