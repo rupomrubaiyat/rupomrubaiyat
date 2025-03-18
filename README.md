@@ -13,9 +13,11 @@
 - instagram : https://www.instagram.com/rupom.rubaiyat/
 - linked in : https://www.linkedin.com/in/rupomrubaiyat/ 
 - Email: rupomrubaiyat@gmail.com
+- [![Codeforces](https://img.shields.io/badge/Codeforces-0078D6?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/rupom.rubaiyat)
 <!-- > [!TIP]
 > Helpful advice for doing things better or more easily.-->
 <p>- 😄 Pronouns: He/Him</p>
+
   
 <!--- ⚡ Fun fact: ...-->
 
