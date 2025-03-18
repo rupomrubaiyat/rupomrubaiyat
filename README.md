@@ -10,10 +10,11 @@
 ### Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!</h3>
 <!-- <p>- 💞️ I’m looking to collaborate on ...</p> -->
 ### 📫 feel free to drop a message:
-- instagram : https://www.instagram.com/rupom.rubaiyat/
+- instagram : [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rupom.rubaiyat/)
+
 - linked in : https://www.linkedin.com/in/rupomrubaiyat/ 
 - Email: rupomrubaiyat@gmail.com
-- [![Codeforces](https://img.shields.io/badge/Codeforces-0078D6?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/rupom.rubaiyat)
+- Codeforces: [![Codeforces](https://img.shields.io/badge/Codeforces-0078D6?style=for-the-badge&logo=codeforces&logoColor=black)](https://codeforces.com/profile/rupom.rubaiyat)
 <!-- > [!TIP]
 > Helpful advice for doing things better or more easily.-->
 <p>- 😄 Pronouns: He/Him</p>
