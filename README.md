@@ -7,9 +7,9 @@
 
 <!--badges used-->
 - 👀 interested in ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-and ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- 🌱 currently learning ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
- and ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+and ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+- 🌱 currently learning ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) and 
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 ### Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!</h3>
