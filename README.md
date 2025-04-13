@@ -12,7 +12,7 @@ and ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-b
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
-### Feel free to explore my repositories and contribute to any projects that interest you. Let's build something amazing together!</h3>
+### Feel free to explore my repositories and contribute to any projects that interests you. Let's build something amazing together!</h3>
 <!-- <p>- 💞️ I’m looking to collaborate on ...</p> -->
 ### 📫 feel free to drop a message:
 - instagram : [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rupom.rubaiyat/)
